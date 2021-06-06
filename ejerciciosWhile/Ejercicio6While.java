@@ -42,6 +42,7 @@ public class Ejercicio6While {
                 totalAlumnosRelevados++;
                 if (altura >= 183 && peso >= 73 && peso <= 105) {
                     alumnosConAptitudes++;
+
                 }
 
             }
